@@ -4,11 +4,11 @@
 
 1. Оценка покрытия:
 
-![](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Coverage/images/1.png)
+![](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Coverage/images/1.png)
 
 2. В 7 уроке при запуске тестов с оценкой покрытия выдает ошибку, приведенную ниже:
 
-![](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Coverage/images/2.png)
+![](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Coverage/images/2.png)
 
 Данная ошибка возникает даже при запуске уже имеющихся тестов.
 Однако, при запуске тестов без оценки покрытия ошибка не возникает!
@@ -18,13 +18,13 @@
 
 3. Оценка покрытия lesson5/task1 - findSumOfTwo():
 
-![image](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Coverage/images/lesson_5.png)
+![](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Coverage/images/lesson_5.png)
 
 Видим здесь далеко не 10, а целых 100%. Посмотрим на остальные части:
 
 4. Оценка покрытия lesson6/task1 - mostExpensive():
 
-![image](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Coverage/images/lesson_6.png)
+![](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Coverage/images/lesson_6.png)
 
 Снова видим полное покрытие, а не те проценты, которые указаны в таблице.
 
