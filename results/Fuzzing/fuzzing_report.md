@@ -4,7 +4,7 @@
 
 1. Обычное случайное тестирование:
 
-![image](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Fuzzing/images/coverage.png)
+![image](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Fuzzing/images/coverage.png)
 
 Даже сейчас уже можно заметить,
 насколько плохо генерируются входные данные. 
@@ -14,14 +14,14 @@
 
 2. Оценка покрытия lesson5/task1 - findSumOfTwo():
 
-![image](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Fuzzing/images/lesson5.png)
+![image](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Fuzzing/images/lesson5.png)
 
 По данной оценке можно сделать вывод, что с помощью случайно генерации у нас ни разу даже не получилось ни одного случая с валидным результатом.
 Т. е. во всех случаях возвращалось -1; -1
 
 3. Оценка покрытия lesson6/task1 - plusMinus():
 
-![image](/Users/joker/IdeaProjects/KotlinAsFirst2021/results/Fuzzing/images/lesson6.png)
+![image](https://github.com/Joker707/KotlinAsFirst2021/blob/master/results/Fuzzing/images/lesson6.png)
 
 Здесь ситуация ещё более критическая...
 Можно наблюдать ситуацию, обсуждаемую на лекции — случайные тестовые данные просто не проходят дальше какого-то "условия адекватности".
